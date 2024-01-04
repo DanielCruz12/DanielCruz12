@@ -12,7 +12,7 @@ My name is Daniel, I'm web designer I have 2 years programming and making platfo
 
 @Daniel_CruzD
 or send me an email ...
-josuedanielcruzdubon@gmail.com
+danielcruzdubon12@gmail.com
 
 <!---
 DanielCruz12/DanielCruz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
