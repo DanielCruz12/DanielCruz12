@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [http://daniel-design.vercel.app/](http://daniel-design.vercel.app/)
 
-[![DanielCruz12's GitHub | Languages Over Time](https://stats.quira.sh/DanielCruz12/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=DanielCruz12)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daniel_cruzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniel_cruzd" height="30" width="40" /></a>
