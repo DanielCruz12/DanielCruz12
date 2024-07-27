@@ -22,5 +22,4 @@
 
 - [![DanielCruz12's GitHub | Stats](https://stats.quira.sh/DanielCruz12/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=DanielCruz12)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcruz12&show_icons=true&locale=en&layout=compact" alt="danielcruz12" /></p>
+- [![DanielCruz12's GitHub | Languages Over Time](https://stats.quira.sh/DanielCruz12/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=DanielCruz12)
