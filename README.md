@@ -3,7 +3,7 @@
 
 I have a wealth of experience in crafting and designing interfaces for diverse projects. My primary focus has been on enhancing usability and user interaction across various devices and browsers.
 
-- 🔭 I’m currently working on [DanDev](https://content-ai-creator.vercel.app/)
+- 🔭 I’m currently working on [Dubuu](https://dubuu.com)
 
 - 🌱 I’m currently learning **looker studio, drizzle, prisma, postgres**
 
